@@ -1,18 +1,18 @@
 import Head from "next/head";
 
-const About = () => {
+const Items = () => {
     return ( 
         <>
             <Head>
-            <title>Listing | About</title>
+            <title>Listing | Lists</title>
             <meta name="keywords" content="listings" />
             </Head>
             <div>
-                <h1>About Page</h1>
+                <h1>Listing Page</h1>
                 <p> mmmineincjekcjekcjenhdnehwbdnwe jdbwejhdbwhjwehbdwehjbd mmmineincjekcj ekcjenhdnehwbdnwejdbwejhdbwhjwehbdwehjbd </p>
             </div>
         </>
      );
 }
  
-export default About;
+export default Items;
